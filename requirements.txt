@@ -1,6 +1,9 @@
-streamlit
+streamlit==1.55.0
 pandas
 numpy
 scikit-learn==1.5.1
+xgboost
+matplotlib
+seaborn
 joblib
 openpyxl
